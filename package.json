@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rohinikhanderay/petcart.git"
+    "url": "git+https://github.com/rohinikhanderay/final-Pet-cart.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohinikhanderay/petcart/issues"
+    "url": "https://github.com/rohinikhanderay/final-Pet-cart/issues"
   },
-  "homepage": "https://github.com/rohinikhanderay/petcart#readme",
+  "homepage": "https://github.com/rohinikhanderay/final-Pet-cart#readme",
   "dependencies": {
     "react-icons": "^4.7.1"
   }
