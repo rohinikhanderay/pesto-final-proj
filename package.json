@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rohinikhanderay/final-Pet-cart.git"
+    "url": "git+https://github.com/rohinikhanderay/pesto-final-proj.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rohinikhanderay/final-Pet-cart/issues"
+    "url": "https://github.com/rohinikhanderay/pesto-final-proj/issues"
   },
-  "homepage": "https://github.com/rohinikhanderay/final-Pet-cart#readme",
+  "homepage": "https://github.com/rohinikhanderay/pesto-final-proj#readme",
   "dependencies": {
     "react-icons": "^4.7.1"
   }
